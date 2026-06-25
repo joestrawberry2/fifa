@@ -9,3 +9,5 @@ This is the android app of the World Cup viewer. C2A, also CazéTV.
 
 You can download it here:
 https://github.com/joestrawberry2/fifa/raw/refs/heads/main/FIFA_World_Cup_Viewer_v1.0_1782341166692.apk
+
+:canada: :us: :mexico:
